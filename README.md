@@ -1,14 +1,31 @@
 <h1 align="center">Hi 👋, I'm Kavindu Santhusha</h1>
+
 <h3 align="center">🌍 Passionate about exploring the world and constantly seeking new innovations</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=santhuxx&label=Profile%20views&color=0e75b6&style=flat" alt="santhuxx" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=santhuxx&label=Profile%20views&color=97CA00&style=flat" alt="santhuxx" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+  - 🌱 I’m currently learning **MERN**
 
-- 🎓 Undergraduate IT student at **SLIIT**
+  - 🎓 Undergraduate IT student at **SLIIT**
 
-- 📫 Reach me at **ksanthusha20@gmail.com**
+  - 📫 Reach me at **ksanthusha20@gmail.com**
 
+</td>
+<td width="50%" align="center">
+
+   <a href="https://github.com/Santhuxx">
+    <img width=450 height=170 align="center" alt="Santhuxx" src="https://github-readme-stats.vercel.app/api?username=Santhuxx&theme=midnight-blue&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  
+  </td>
+</tr>
+</table>
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -17,6 +34,8 @@
 <a href="https://instagram.com/_santhu.x" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_santhu.x" height="30" width="30" /></a>
 <a href="https://www.youtube.com/@SurfacedHub" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="surfaced hub" height="30" width="30" /></a>
 </p>
+
+---
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -37,5 +56,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a> </p>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a> 
+</p>
 
