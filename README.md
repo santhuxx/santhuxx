@@ -1,3 +1,7 @@
+<div align = "center">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+</div>
+
 <h1 align="center">Hi 👋, I'm Kavindu Santhusha</h1>
 
 <h3 align="center">🌍 Passionate about exploring the world and constantly seeking new innovations</h3>
@@ -29,10 +33,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/kavindu-santhusha-495a64215" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavindu-santhusha-495a64215" height="30" width="30" /></a>
-<a href="https://fb.com/santhu.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santhu.x" height="30" width="30" /></a>
-<a href="https://instagram.com/_santhu.x" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_santhu.x" height="30" width="30" /></a>
-<a href="https://www.youtube.com/@SurfacedHub" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="surfaced hub" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kavindu-santhusha-495a64215" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavindu-santhusha-495a64215" height="40" width="40" /></a>
+<a href="https://fb.com/santhu.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santhu.x" height="40" width="40" /></a>
+<a href="https://instagram.com/_santhu.x" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_santhu.x" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@SurfacedHub" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="surfaced hub" height="40" width="40" /></a>
 </p>
 
 ---
