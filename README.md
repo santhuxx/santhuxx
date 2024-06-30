@@ -24,8 +24,8 @@
 </td>
 <td width="50%" align="center">
 
-   <a href="https://github.com/Santhuxx">
-    <img width=450 height=170 align="center" alt="Santhuxx" src="https://github-readme-stats.vercel.app/api?username=Santhuxx&theme=midnight-blue&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+   <a href="https://github.com/santhuxx">
+    <img width=450 height=170 align="center" alt="santhuxx" src="https://github-readme-stats.vercel.app/api?username=santhuxx&theme=midnight-blue&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   
   </td>
