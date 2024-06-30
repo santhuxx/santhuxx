@@ -18,6 +18,9 @@
 
   - 📫 Reach me at **ksanthusha20@gmail.com**
 
+  - ⚡ Fun fact **Call me as Santhu**
+
+
 </td>
 <td width="50%" align="center">
 
