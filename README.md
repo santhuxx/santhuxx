@@ -63,8 +63,15 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/>
+</a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Spring-Dark.svg" alt="springboot" width="40" height="40"/>
+</a>
+
 </p>
 
 
