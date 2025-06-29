@@ -39,7 +39,9 @@
 <a href="https://linkedin.com/in/kavindu-santhusha-495a64215" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavindu-santhusha-495a64215" height="40" width="40" /></a>
 <a href="https://fb.com/santhu.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santhu.x" height="40" width="40" /></a>
 <a href="https://instagram.com/_santhu.x" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_santhu.x" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@SurfacedHub" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="surfaced hub" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@SurfacedHub" target="blank">
+  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
+</a>
 </p>
 
 ---
