@@ -32,17 +32,7 @@
 </tr>
 </table>
 
----
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/kavindu-santhusha-495a64215" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavindu-santhusha-495a64215" height="40" width="40" /></a>
-<a href="https://fb.com/santhu.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santhu.x" height="40" width="40" /></a>
-<a href="https://instagram.com/_santhu.x" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_santhu.x" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@SurfacedHub" target="blank">
-  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
-</a>
-</p>
 
 ---
 
@@ -76,4 +66,22 @@
 
 </p>
 
+---
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/kavindu-santhusha-495a64215" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavindu-santhusha-495a64215" height="40" width="40" /></a>
+<a href="https://fb.com/santhu.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santhu.x" height="40" width="40" /></a>
+<a href="https://instagram.com/_santhu.x" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_santhu.x" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@SurfacedHub" target="blank">
+  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="center">Contribution Graph</h3>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santhuxx&theme=react-dark)
+
+</p>
