@@ -24,29 +24,133 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/C.svg" alt="C" width="36" height="36"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="36" height="36"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="36" height="36"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="36" height="36"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="36" height="36"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="Kotlin" width="36" height="36"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="36" height="36"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="36" height="36"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" width="36" height="36"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="36" height="36"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="36" height="36"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="36" height="36"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="36" height="36"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="36" height="36"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot" width="36" height="36"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="36" height="36"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="36" height="36"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="36" height="36"/></a>
-  <a href="https://developer.android.com" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" width="36" height="36"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Git.svg" alt="Git" width="36" height="36"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="36" height="36"/></a>
-</p>
+<div align = "center">
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/React-Dark.svg" width="48" height="48" alt="React"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" height="48" alt="Next.js"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/MongoDB.svg" width="48" height="48" alt="MongoDB"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" height="48" alt="Firebase"/>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Express.js"/>
+      <br>Express.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Arduino.svg" width="48" height="48" alt="Arduino"/>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/C.svg" width="48" height="48" alt="C"/>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/CPP.svg" width="48" height="48" alt="C++"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Java-Dark.svg" width="48" height="48" alt="Java"/>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Python-Dark.svg" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" height="48" alt="PHP"/>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="48" height="48" alt="Kotlin"/>
+      <br>Kotlin
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/HTML.svg" width="48" height="48" alt="HTML5"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/CSS.svg" width="48" height="48" alt="CSS3"/>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind CSS"/>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="48" height="48" alt="Material UI"/>
+      <br>Material UI
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Spring-Dark.svg" width="48" height="48" alt="Spring Boot"/>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" height="48" alt="MySQL"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code"/>
+      <br>VS Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="48" height="48" alt="Visual Studio"/>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="48" height="48" alt="Android Studio"/>
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Electron.svg" width="48" height="48" alt="Electron"/>
+      <br>Electron
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Git.svg" width="48" height="48" alt="Git"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" height="48" alt="Figma"/>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Idea-Dark.svg" width="48" height="48" alt="IntelliJ IDEA"/>
+      <br>IntelliJ IDEA
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/santhuxx/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="48" height="48" alt="Eclipse"/>
+      <br>Eclipse
+    </td>
+  </tr>
+</table>
+</div>
+
+
 
 ---
 
