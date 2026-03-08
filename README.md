@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Software Engineer Intern.
+- 💼 Software Engineer Trainee.
 - 🎓 Pursuing BSc (Hons) in IT at **SLIIT**, Sri Lanka  
 - 🛠️ Building intuitive solutions using **modern web technologies**  
 - 🤖 Interested in **Web Development**, **IoT with Arduino**, and **AI/ML**  
